@@ -2,6 +2,8 @@
 
 [A New Metric for Quality of Network Community Structure](https://arxiv.org/pdf/1507.04308.pdf): The paper mentioned on the link consists of a section that defines the Quality cretria that we're going to implement in this submission.
 
+[Improving Community Detection in Wikipedia Articles using Semantic Features](http://snap.stanford.edu/class/cs224w-2016/projects/cs224w-2-final.pdf)
+
 ### Triangle Partition Ratio
 * ####  Algorithm for Computation:
 Initialize sum
